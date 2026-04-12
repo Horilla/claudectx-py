@@ -11,10 +11,10 @@ import shutil
 import subprocess
 import sys
 
-__version__ = "1.1.2"
+__version__ = "1.1.3"
 
 NPM_PACKAGE = "claudectx"
-NPM_VERSION = "1.1.2"
+NPM_VERSION = "1.1.3"
 
 _INSTALL_HINT = (
     "\nclaudectx is not installed. Install it with:\n"
